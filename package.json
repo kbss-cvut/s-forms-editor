@@ -26,7 +26,7 @@
     "@material-ui/lab": "^4.0.0-alpha.56",
     "@rdfjs/parser-jsonld": "^1.2.1",
     "@rdfjs/parser-n3": "^1.1.4",
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^5.0.0",
     "classnames": "^2.2.6",
     "jsoneditor": "^9.1.2",
     "jsonld": "^3.2.0",
